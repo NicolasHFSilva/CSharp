@@ -4,13 +4,13 @@
 
 ## Conteúdo
 
-* **Explicação:** 
+* **Explicação:**
 
      Utilizei o projeto para realizar o módulo 'Introdução ao C# e .Net'
 
      1. **Criando seu primeiro projeto em C#**
 
-        1.1 Apresentação do curso;
+        1.1 Apresentação do curso; 
 
         1.2 Criando seu primeiro projeto em C#;
 
